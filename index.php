@@ -1,4 +1,4 @@
 <?php
 	
-	echo 'Hello world from Cipika!!!';
+	echo 'Hello <strong>world</strong> from Cipika!!!';
 ?>
