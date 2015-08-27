@@ -1,4 +1,4 @@
 <?php
 	
-	echo 'CIPIKA BETA!';
+	echo 'CIPIKA BETA sudah siap dirilis';
 ?>
